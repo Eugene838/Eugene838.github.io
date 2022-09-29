@@ -13,7 +13,7 @@ export class SchoolComponent implements OnInit {
   ngOnInit(): void {
 
   }
-  title = "My journey";
+  title = "Journey";
   University =
     {
       school: "University of Wollongong",
