@@ -77,40 +77,6 @@ p {
     text-align: center;
 }
 
-.toolbar #Git-logo {
-    height: 50px;
-    margin: 0 16px;
-}
-
-.toolbar #Git-logo:hover {
-    opacity: 0.3;
-    height: 30px;
-    margin: 0 16px;
-    ;
-}
-
-.toolbar #tskill {
-    height: 50px;
-    margin: 0 16px;
-}
-
-.toolbar #texperience {
-    height: 50px;
-    margin: 0 16px;
-}
-
-.toolbar #LinkedIn-logo {
-    height: 50px;
-    margin: 0 16px;
-}
-
-.toolbar #LinkedIn-logo:hover {
-    opacity: 0.3;
-    height: 30px;
-    margin: 0 16px;
-    ;
-}
-
 .Icon {
     height: 40px;
     width: 40px;
