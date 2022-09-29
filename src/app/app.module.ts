@@ -6,6 +6,8 @@ import { AppComponent } from './app.component';
 import { SchoolComponent } from './school/school.component';
 import { SkillsComponent } from './skills/skills.component';
 import { ExperienceComponent } from './experience/experience.component';
+import {enableProdMode} from '@angular/core';
+enableProdMode();
 
 @NgModule({
   declarations: [
