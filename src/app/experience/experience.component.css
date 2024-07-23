@@ -1,0 +1,13 @@
+.container {
+    background-color: inherit;
+    width: 100%;
+}
+
+.content {
+    padding: 20px 30px;
+    background-color: white;
+    position: relative;
+    border-radius: 6px;
+    filter: drop-shadow(10px 15px 3px #202020);
+    border-style: solid;
+}
